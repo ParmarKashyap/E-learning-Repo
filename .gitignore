@@ -1,6 +1,5 @@
-Uploads/
+uploads/
 .env
 *.log
 .DS_Store
 Thumbs.db
-database/
