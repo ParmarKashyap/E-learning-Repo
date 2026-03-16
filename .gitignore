@@ -1,4 +1,4 @@
-uploads/
+admin/uploads/
 .env
 *.log
 .DS_Store
